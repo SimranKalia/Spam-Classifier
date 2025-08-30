@@ -1,1 +1,2 @@
 # Spam-Classifier
+The Spam Classifier is a machine learning project developed in Python to automatically detect and classify SMS or email messages as spam or not spam (ham). It uses Natural Language Processing (NLP) techniques to clean and process text data, and models like Naive Bayes, Logistic Regression, or SVM for classification. The system is trained on labeled datasets and provides accurate, real-time spam detection. It can be integrated into applications like email clients or messaging platforms to filter unwanted messages.
